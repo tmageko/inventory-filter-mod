@@ -1,0 +1,5 @@
+{
+  "item.inventoryfilter.filter": "Фильтр инвентаря",
+  "container.inventoryfilter.filter": "Настройка фильтра",
+  "tooltip.inventoryfilter.filter_items": "Отфильтровываемые предметы:"
+}
